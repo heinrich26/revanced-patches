@@ -1,6 +1,6 @@
 {
   "branches": [
-    "revanced-patches",
+    "revanced-extended",
     {
       "name": "dev",
       "prerelease": true
